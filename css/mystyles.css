@@ -1,0 +1,46 @@
+.yangcenter{
+    text-align: center;
+    color: hsl(211, 37%, 89%);   
+}
+.yangyang{
+    background-color: hwb(202 23% 63%);
+    border: 2px solid #b0b0b0;
+    padding: 40px;
+    border-radius: 20px 30px;
+    color: aliceblue;
+    margin: 0 auto;
+    width: 50%;
+    overflow: scroll;
+    height: 150px;
+}
+.alyssa{
+    text-align: center;
+    color: white;
+}
+a.link{
+    color: #7098c2;
+    background-color: hsl(211, 44%, 50%);
+    border-radius: 20px 20px;
+}
+a.link:hover{
+    color: hsl(198, 69%, 80%);
+    background-color: #284265;
+    padding: 10px;
+}
+.yangicons{
+    text-align: center;
+}
+#about{
+    background-color: #284265;
+}
+section#about h1{
+    color: white;
+}
+section#about{
+    background-image: url("../assets/img/eduardoortiz-beach-4161593_1920.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+    
