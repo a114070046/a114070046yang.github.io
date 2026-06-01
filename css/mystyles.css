@@ -51,3 +51,11 @@ section#about{
 .ly{
     color: #284265;
 }
+.custom-card-body {
+    padding-top: 4rem;    
+    padding-bottom: 4rem;
+    min-height: 250px;             
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
